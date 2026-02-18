@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.827759d7.css",
-    "main.js": "/portfolio/static/js/main.df9b27e4.js",
+    "main.js": "/portfolio/static/js/main.9dd5d8e5.js",
     "static/js/453.ace21015.chunk.js": "/portfolio/static/js/453.ace21015.chunk.js",
     "static/media/plantAI.png": "/portfolio/static/media/plantAI.24ccb55a09f1ff336c51.png",
     "static/media/crimePredict.png": "/portfolio/static/media/crimePredict.fcc3dc40daa498f68e7c.png",
     "static/media/nlpInterview.png": "/portfolio/static/media/nlpInterview.8ef399baefbdb88c8bdd.png",
     "static/media/about.png": "/portfolio/static/media/about.6e7cf8b2d56e88d60522.png",
-    "static/media/resume.pdf": "/portfolio/static/media/resume.340752dadd241d4a3b0b.pdf",
-    "static/media/resume1.pdf": "/portfolio/static/media/resume1.340752dadd241d4a3b0b.pdf",
     "static/media/rts.png": "/portfolio/static/media/rts.9615a8e9cf99304b282a.png",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.8be28f9ccc1a1a472684.pdf",
+    "static/media/resume1.pdf": "/portfolio/static/media/resume1.8be28f9ccc1a1a472684.pdf",
     "static/media/musicTDA.png": "/portfolio/static/media/musicTDA.d442cf0b9c70e3875e3c.png",
     "static/media/avatar.svg": "/portfolio/static/media/avatar.3b2f5da478bf618f61a83c4fc13d804b.svg",
     "static/media/Jupyter.svg": "/portfolio/static/media/Jupyter.42519ae72518a6c081f27befe14ebc1b.svg",
@@ -43,11 +43,11 @@
     "static/media/Tailwind.svg": "/portfolio/static/media/Tailwind.5dc20a22c455a7a4efeeb9cba430f50b.svg",
     "static/media/Haskell.svg": "/portfolio/static/media/Haskell.e4b7b5b34e24fee7cd7a2a1f75b9550b.svg",
     "main.827759d7.css.map": "/portfolio/static/css/main.827759d7.css.map",
-    "main.df9b27e4.js.map": "/portfolio/static/js/main.df9b27e4.js.map",
+    "main.9dd5d8e5.js.map": "/portfolio/static/js/main.9dd5d8e5.js.map",
     "453.ace21015.chunk.js.map": "/portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.827759d7.css",
-    "static/js/main.df9b27e4.js"
+    "static/js/main.9dd5d8e5.js"
   ]
 }
